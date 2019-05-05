@@ -38,7 +38,7 @@ Performance | [🐎 Horse](http://emojipedia.org/horse/)
 Tooling | [🔧 Wrench](http://emojipedia.org/wrench/)
 Tests | [🚨 Police Cars Revolving Light](http://emojipedia.org/police-cars-revolving-light/)
 Deprecation | [💩 Pile of Poo](http://emojipedia.org/pile-of-poo/)
-Removal | [🗑️ Wastebasket](http://emojipedia.org/wastebasket/)
+Removal | [🔨 Hammer](http://emojipedia.org/hammer/)
 Work In Progress (WIP) | [🚧 Construction Sign](http://emojipedia.org/construction-sign/)
 
 ## Using Emoji is Hard! 😡
