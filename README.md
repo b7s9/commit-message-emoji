@@ -23,7 +23,9 @@ Commit Type | Emoji | Explanation
 ----------  | ----- | -----------
 Initial Commit | [🎉 Party Popper](http://emojipedia.org/party-popper/) | first commit of new repo
 Version Tag | [🔖 Bookmark](http://emojipedia.org/bookmark/) | new release version
-New Feature | [✨ Sparkles](http://emojipedia.org/sparkles/) | new feature specified in requiremetns
+New Feature | [✨ Sparkles](http://emojipedia.org/sparkles/) | new feature specified in requirements
+Improvement | [🚀 Rocket](http://emojipedia.org/rocket/) | update or improvement to existing feature
+Content | [🌱 Seedling](http://emojipedia.org/seedling/) | new content
 Style | [💄 Lipstick](http://emojipedia.org/lipstick/) | code that only affects visuals/layout/aesthetics
 Bugfix | [🐛 Bug](http://emojipedia.org/bug/) | ya done UNgoofed
 Security Fix | [🔒 Lock](https://emojipedia.org/lock/) | they stole our stuff
