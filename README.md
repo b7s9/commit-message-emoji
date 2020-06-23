@@ -43,7 +43,19 @@ Work In Progress (WIP) | [🚧 Construction Sign](http://emojipedia.org/construc
 
 ## Using Emoji is Hard! 😡
 
-Here are [some ways](INTEGRATIONS.md) to more easily integrate emoji into your workflow.
+Below are the ways to access the unicode character picker in major operating systems. See this [list of additional ways](INTEGRATIONS.md) to more easily integrate emoji into your workflow.
+
+### OSX
+
+You can pull up the emoji keyboard by hitting <kbd>ctrl</kbd>+<kbd>⌘</kbd>+<kbd>space</kbd>
+
+### Windows 10
+
+You can pull up the emoji keyboard by hitting <kbd>Win</kbd>+<kbd>.</kbd>
+
+### Ubuntu (all versions)
+
+Launch the "Characters" application.
 
 ## Comparison
 
