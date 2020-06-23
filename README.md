@@ -32,7 +32,7 @@ Performance | [🐎 Horse](http://emojipedia.org/horse/) | otimization of code o
 Internationalization | [🌐 Globe With Meridians](http://emojipedia.org/globe-with-meridians/) | language or time zone support
 Refactoring | [♻️ Black Universal Recycling Symbol](http://emojipedia.org/black-universal-recycling-symbol/) | moving around code such that functionality is not affected. This may be a form of optimisation
 Removal | [🔨 Hammer](http://emojipedia.org/hammer/) | this feature is C A N C E L E D
-Security Fix | [🔒 Lock](https://emojipedia.org/lock/) | they stole our stuff
+Security Fix | [🔒 Lock](https://emojipedia.org/lock/) | fix vulnerability
 Style | [💄 Lipstick](http://emojipedia.org/lipstick/) | code that only affects visuals/layout/aesthetics
 Tests | [🚨 Police Cars Revolving Light](http://emojipedia.org/police-cars-revolving-light/) | we're probably not doing unit tests but eh
 Tooling | [🔧 Wrench](http://emojipedia.org/wrench/) | node packages and other development-side tools
