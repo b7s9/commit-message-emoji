@@ -22,22 +22,21 @@ For commits with multiple types of messages, use multiple lines:
 Commit Type | Emoji | Explanation
 ----------  | ----- | -----------
 Initial Commit | [🎉 Party Popper](http://emojipedia.org/party-popper/) | first commit of new repo
-Accessibility | [♿ Wheelchair](https://emojipedia.org/wheelchair-symbol/) | mostly for ARIA or a11y specific code
-Bugfix | [🐛 Bug](http://emojipedia.org/bug/) | ya done UNgoofed
-Content | [🌱 Seedling](http://emojipedia.org/seedling/) | new content
-Documentation | [📚 Books](http://emojipedia.org/books/) | what does ur code do
-Improvement | [🚀 Rocket](http://emojipedia.org/rocket/) | update or improvement to existing feature
-New Feature | [✨ Sparkles](http://emojipedia.org/sparkles/) | new feature specified in requirements
-Performance | [🐎 Horse](http://emojipedia.org/horse/) | otimization of code or production environment
+Accessibility | [♿ Wheelchair](https://emojipedia.org/wheelchair-symbol/) | ARIA and other code specifically for the purpose of making UX more accessible
+Bugfix | [🐛 Bug](http://emojipedia.org/bug/) | Fix anything
+Content | [🌱 Seedling](http://emojipedia.org/seedling/) | images, vector files, article entries not related to project structure
+Documentation | [📚 Books](http://emojipedia.org/books/) | comments, markdown files
+New Feature | [✨ Sparkles](http://emojipedia.org/sparkles/) | new functionality
+Performance | [🐎 Horse](http://emojipedia.org/horse/) | optimization for dev or end user (does not add new functionality)
 Internationalization | [🌐 Globe With Meridians](http://emojipedia.org/globe-with-meridians/) | language or time zone support
-Refactoring | [♻️ Black Universal Recycling Symbol](http://emojipedia.org/black-universal-recycling-symbol/) | moving around code such that functionality is not affected. This may be a form of optimisation
-Removal | [🔨 Hammer](http://emojipedia.org/hammer/) | this feature is C A N C E L E D
+Refactoring | [♻️ Black Universal Recycling Symbol](http://emojipedia.org/black-universal-recycling-symbol/) | moving around code such that functionality is not affected.
+Removal | [🔨 Hammer](http://emojipedia.org/hammer/) | removing code
 Security Fix | [🔒 Lock](https://emojipedia.org/lock/) | fix vulnerability
-Style | [💄 Lipstick](http://emojipedia.org/lipstick/) | code that only affects visuals/layout/aesthetics
-Tests | [🚨 Police Cars Revolving Light](http://emojipedia.org/police-cars-revolving-light/) | we're probably not doing unit tests but eh
+Style | [💄 Lipstick](http://emojipedia.org/lipstick/) | css, sass, and code that only affects visuals/layout/aesthetics.
+Tests | [🚨 Police Cars Revolving Light](http://emojipedia.org/police-cars-revolving-light/) | e2e and other testing
 Tooling | [🔧 Wrench](http://emojipedia.org/wrench/) | node packages and other development-side tools
 Version Tag | [🔖 Bookmark](http://emojipedia.org/bookmark/) | new release version
-Work In Progress (WIP) | [🚧 Construction Sign](http://emojipedia.org/construction-sign/) | talk to team before using
+Work In Progress (WIP) | [🚧 Construction Sign](http://emojipedia.org/construction-sign/) | you can't remember how `git stash` works
 
 ## Using Emoji is Hard! 😡
 
