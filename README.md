@@ -107,13 +107,13 @@ Add missing methods to index.js.
 
 🔖 0.5.1
 
-📚 add _.ifElse to README.md
+📚 Add _.ifElse to README.md
 
 🔖 0.5.0
 
-✨ add _.ifElse
+✨ Add _.ifElse
 
-📚 fix JSDoc comment for _.call
+📚 Fix JSDoc comment for _.call
 
 📚 Fix _.not documentation example.
 
